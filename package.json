@@ -1,16 +1,16 @@
 {
-  "name": "anime-wiki-website",
+  "name": "modelo_z_3025",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://guilleV12.github.io/Modelo_Z_3025",
+  "homepage": "https://modelo-z3025.netlify.app/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "netlify -d dist"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
