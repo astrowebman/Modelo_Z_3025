@@ -37,7 +37,7 @@ const Codigo = () => {
 
       {/* Contenedor del carrusel */}
       <div className='relative w-full overflow-hidden mb-5 md:mb-10'>
-        <div className="flex w-max" ref={sliderRef}>
+        <div className="flex w-max justify-center" ref={sliderRef}>
           {imgList.map((img, index) => ( // Duplica imágenes para loop infinito
             <CodigoImg img={img} key={index}/>
           ))}
