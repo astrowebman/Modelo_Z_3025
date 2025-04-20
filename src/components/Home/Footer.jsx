@@ -2,7 +2,7 @@ import React from 'react'
 import PropagateLoader  from "react-spinners/ClipLoader";
 
 const Footer = () => {
-  const links = [{"title" : "LinkedIn", "href" : "https://www.linkedin.com/in/guillermo-vera-75a5752a8/"}, {"title" : "GitHub", "href" : "https://github.com/guilleV12"}, {"title": "Repositorio", "href": "https://github.com/guilleV12/Modelo_Z_3025.git"}]
+  const links = [{"title" : "GitHub", "href" : "https://github.com/astrowebman"}, {"title": "Repositorio", "href": "https://github.com/astrowebman/Modelo_Z_3025.git"}]
   /*const [footerData, setFooterData] = useState()
   const [error, setError] = useState(null)
 
@@ -33,7 +33,7 @@ const Footer = () => {
 
         <div className='flex flex-col md:flex-row w-full justify-between md:py-3 mt-1 md:mt-0'>
           <p className='font-semibold text-white text-xs text-center md:text-start mb-1 md:mb-0'>
-            Copyright @ 2025 Guillermo Vera. All rights reserved.
+            Copyright @ 2025 Astrowebman. All rights reserved.
           </p>
 
           <div className='flex justify-center md:block mb-1 md:mb-0'>
