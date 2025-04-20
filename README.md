@@ -1,4 +1,4 @@
-<h1 align="center">React Practice Project <a href='https://modeloz3025.netlify.app/'>"Modelo Z 3025"</a> </h1>
+<h1 align="center">React Practice Project <a href='https://modelo-z3025.netlify.app/'>"Modelo Z 3025"</a> </h1>
 <br>
 <div align="center">
   <div>
@@ -47,4 +47,4 @@ Consistent access and optimal viewing on any device with a fully responsive desi
 **Totalmente responsivo**  
 Accesibilidad garantizada y visualización óptima en cualquier dispositivo gracias a un diseño adaptable.
 
-<h2 align='center'>Guillermo Vera - Front End - Web Dev</h2>
+<h2 align='center'>Astrowebman - Front End - Web Dev</h2>
